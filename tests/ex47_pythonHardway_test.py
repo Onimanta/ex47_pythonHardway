@@ -1,5 +1,5 @@
 from nose.tools import *
-from ex47_pythonHardway.game import Room
+from ex47_pythonHardway import Room
 
 
 def test_room():
